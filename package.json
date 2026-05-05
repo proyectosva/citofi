@@ -1,0 +1,15 @@
+{
+  "name": "citofi",
+  "version": "1.0.0",
+  "description": "Modulo de autenticacion",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "pg": "^8.11.0",
+    "bcrypt": "^5.1.0",
+    "dotenv": "^16.0.3"
+  }
+}
